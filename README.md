@@ -73,7 +73,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" />
 </div>
 
-
+{
+  "services": [
+    "Desarrollo Web & Portafolios (Estética Retro/CRT)",
+    "Soporte, Diagnóstico y Reparación de Hardware",
+    "Gestión de Licenciamiento Oficial (Windows & Office)"
+  ],
+  "status": "Ready for deployment"
+}
 
 
 
