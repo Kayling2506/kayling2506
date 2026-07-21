@@ -47,43 +47,65 @@
 
 ---
 
-### ⚡ Sobre mí
-* 🎓 **Estudiante de IT** y Técnico Administrativo con 2 años de experiencia combinando el soporte técnico, la gestión administrativa y el desarrollo de software.
-* 💻 Apasionado por la optimización de código, el diseño web responsivo y la correcta administración de bases de datos e infraestructura de redes.
-* 🕹️ Entusiasta de la estética retro y los elementos arcade aplicados al desarrollo web moderno.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=PORTFOLIO%20SYSTEM&fontSize=30&fontColor=00ff66&fontAlignY=35&desc=IT%20Student%20&%20Tech%20Specialist&descSize=14&descColor=ffffff" alt="Header" />
+
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-%2300ff66?style=for-the-badge&logo=reactivex&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/MODE-RETRO_ARCADE-%23ff0055?style=for-the-badge&logo=arcade&logoColor=white" alt="Mode" />
+  <img src="https://img.shields.io/badge/EXPERIENCE-2_YEARS-%2300b4d8?style=for-the-badge&logo=gnomedesktop&logoColor=white" alt="Experience" />
+</p>
+
+</div>
 
 ---
 
-### 🛠️ Tecnologías y Entornos
-* **Lenguajes:** C, SQL, HTML5, CSS3.
-* **Bases de Datos & Servidores Locales:** XAMPP, modelado y gestión de datos.
-* **Infraestructura & Hosting:** Configuración de dominios y seguridad con Cloudflare, despliegue en GitHub Pages.
+## 🕹️ SYS_OVERVIEW.log
+
+> **[SISTEMA INICIALIZADO]** Estudiante de IT y Técnico en Administración y Sistemas con **2 años de experiencia** combinando el soporte técnico, la gestión administrativa y el desarrollo web. Apasionado por la creación de soluciones digitales con una estética retro-moderna, la optimización rigurosa de código y la administración eficiente de infraestructura y bases de datos.
 
 ---
 
-### 💼 Servicios y Soluciones Técnicas
-* **Desarrollo Web:** Creación de portafolios y sitios personalizados con atención al detalle en diseño y rendimiento.
-* **Soporte & Hardware:** Diagnóstico, reparación y mantenimiento preventivo/correctivo de equipos de cómputo.
-* **Licenciamiento:** Provisión de licencias oficiales de software (Windows y Microsoft Office).
+## ⚡ SKILL_TREE & INFRASTRUCTURE
+
+| Categoría | Tecnologías & Herramientas | Enfoque Técnico |
+| :--- | :--- | :--- |
+| **Desarrollo Core** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Lógica de programación, estructuras de datos, diseño web responsivo y optimización de estilos CSS. |
+| **Bases de Datos & Servidores** | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white) | Modelado de bases de datos, consultas eficientes y despliegue de entornos de prueba locales. |
+| **Infraestructura & Hosting** | ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white) | Configuración de dominios personalizados, enrutamiento seguro y despliegue continuo de sitios web. |
+
+---
+
+## 🎒 INVENTORY [ Servicios Profesionales ]
+
+<details>
+  <summary><b>📂 Haz clic para desplegar el catálogo de soluciones técnicas</b></summary>
+  <br>
+  <ul>
+    <li>🌐 <b>Desarrollo Web & Portafolios:</b> Creación de sitios personalizados con estilo retro-arcade (efectos visuales CRT, diseño pixel art) y alto rendimiento.</li>
+    <li>🛠️ <b>Soporte & Hardware:</b> Diagnóstico integral, mantenimiento preventivo/correctivo y optimización de equipos de cómputo.</li>
+    <li>🔑 <b>Licenciamiento Oficial:</b> Provisión segura y gestión de licencias legítimas para sistemas operativos Windows y paquetería Microsoft Office.</li>
+  </ul>
+</details>
+
+---
+
+## 📊 GITHUB_STATS
+
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+  </p>
+</div>
 
 ---
 
 <div align="center">
   <p>👾 <em>"INSERT COIN TO CONTINUE"</em> 👾</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" alt="Footer Wave" />
 </div>
-
-{
-  "services": [
-    "Desarrollo Web & Portafolios (Estética Retro/CRT)",
-    "Soporte, Diagnóstico y Reparación de Hardware",
-    "Gestión de Licenciamiento Oficial (Windows & Office)"
-  ],
-  "status": "Ready for deployment"
-}
-
-
-
 
 
 
